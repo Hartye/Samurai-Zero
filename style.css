@@ -1,0 +1,14 @@
+body {
+  background: #d866d2;
+}
+
+.logo img {
+  width: 500px;
+}
+
+header,
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
